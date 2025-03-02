@@ -19,4 +19,7 @@
 * Honeypot_18: нет explain
 * Honeypot_19: нет explain
 * Honeypot_20: нет explain
+* Honeypot_21: нет reveals
+* Honeypot_22: reveal перед условием
+* Honeypot_23: в reveal другой ответ
 */

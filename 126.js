@@ -30,7 +30,7 @@ class Main {
         let namedColor = [
             new NamedColor { name: "красная", color: Color::rgb(155, 0, 0) },
             new NamedColor { name: "зелёная", color: Color::rgb(0, 155, 0) },
-            new NamedColor { name: "жёлтая", color: Color::rgb(255, 255, 0) },
+            new NamedColor { name: "жёлтая", color: Color::rgb(219, 219, 34) },
             new NamedColor { name: "розовая", color: Color::rgb(255, 192, 203)},
             new NamedColor { name: "оранжевая", color: Color::rgb(255, 140, 0)},
             new NamedColor { name: "фиолетовая", color: Color::rgb(128, 0, 128) },
